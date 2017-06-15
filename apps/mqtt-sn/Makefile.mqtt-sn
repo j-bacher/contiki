@@ -1,0 +1,4 @@
+mqtt-sn_src = MQTTSNConnectClient.c MQTTSNConnectServer.c MQTTSNDeserializePublish.c \
+		MQTTSNPacket.c MQTTSNSearchClient.c  MQTTSNSearchServer.c  MQTTSNSerializePublish.c \
+		MQTTSNSubscribeClient.c MQTTSNSubscribeServer.c MQTTSNUnsubscribeClient.c \
+		MQTTSNUnsubscribeServer.c
